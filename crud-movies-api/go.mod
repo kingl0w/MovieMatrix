@@ -1,6 +1,6 @@
 module github.com/kingl0w/crud-movies-api
 
-go 1.21.11
+go 1.20
 
 require (
 	github.com/gorilla/mux v1.8.1
